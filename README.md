@@ -1,6 +1,6 @@
 # Java JDBC – PostgreSQL CRUD Operations
 
-This was my first Java JDBC CRUD Operations project, completed in Eclipse in 2024.
+Completed my first Java JDBC CRUD Operations project using Eclipse IDE in 2024.
 
 A beginner-friendly Java project demonstrating how to connect to a **PostgreSQL** database and perform all four CRUD operations (Create, Read, Update, Delete) using **JDBC (Java Database Connectivity)**.
 
